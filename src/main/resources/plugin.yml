@@ -1,0 +1,16 @@
+name: CVWEHelper
+main: org.cubeville.cvwehelper.CVWEHelper
+authors: [FrediW]
+version: 1.18
+api-version: 1.18
+
+depend: [WorldEdit,CVTools]
+
+commands:
+  cvwe:
+    description: CVWEHelper command
+    permission: cvwehelper.basecommand
+
+permissions:
+  cvwehelper.basecommand:
+    description: Usage of the base command
