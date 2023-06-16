@@ -50,8 +50,8 @@
       <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
     </repository>
     <repository>
-      <id>sk89q-snapshots</id>
-      <url>http://maven.sk89q.com/artifactory/repo</url>
+      <id>sk89q-repo</id>
+      <url>https://maven.enginehub.org/repo/</url>
       <releases>
         <enabled>true</enabled>
       </releases>
